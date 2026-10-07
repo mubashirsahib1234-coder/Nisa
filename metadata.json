@@ -1,0 +1,6 @@
+{
+  "name": "Sher & Souq",
+  "description": "Daily animated Shayari showcase with curated affiliate books and influencer product pairings, with easy listing management and social card generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
